@@ -97,7 +97,7 @@
 
 <!-- stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadTouseeq&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTouseeq&show_icons=true&hide_border=false&theme=dark")-->
+![MuhammadTouseeq's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTouseeq&show_icons=true&hide_border=false&theme=dark")-->
 
 <!-- repos
 <a href="https://github.com/MuhammadTouseeq/Readers-Cabin">
@@ -111,6 +111,9 @@
 </a>
 -->
 
+
+
+<!-- ![GitHub stats](https://github-profile-trophy.vercel.app/?username=MuhammadTouseeq&theme=onedark) -->
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
