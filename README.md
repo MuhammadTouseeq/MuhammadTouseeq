@@ -26,6 +26,10 @@
 ## I am Senior Android App Developer
 ### Kotlin | Java | MVVM | Flutter | Dart | Coroutines | Flow | JetPack 
 
+
+### 👨🏻‍💻 &nbsp;About Me
+
+- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 - 🔭 I’m currently working on my Event Booking App :grin:
 - 🌱 I’m currently learning JetPack Compose.
 - 👯 I’m looking to collaborate with other Developers :wink:
@@ -34,22 +38,10 @@
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🔭 I’m currently working on my Event Booking App :grin:
-🌱 I’m currently learning JetPack Compose.
-👯 I’m looking to collaborate with other Developers :wink:
-🥅 2022 Goals: Contribute to Open Source projects
-💬 Ask me about anything, I am happy to help :smile:
-📬 How to reach me: [Let's get in touch!][linkedin]
-🧗 I try to: Go beyond and push the bounds
-⚡ Fun fact: I love connecting with different people :raised_hands:
-✍️ &nbsp;In my free time, I watch informative youtube videos, read articles .\
-💬 &nbsp;Feel free to reach out to me for project developement or help
-✉️ &nbsp;You can shoot me an email at developertouseeq@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1PZ9bl7iYERLHjMD6H6_TyB6rUNiWtD91/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- ✍️ &nbsp;In my free time, I watch informative youtube videos, read articles .\
+- 💬 &nbsp;Feel free to reach out to me for project developement or help
+- ✉️ &nbsp;You can shoot me an email at developertouseeq@gmail.com! I'll try to respond as soon as I can.\
+- 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1PZ9bl7iYERLHjMD6H6_TyB6rUNiWtD91/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <br>
 
