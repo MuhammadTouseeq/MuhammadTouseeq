@@ -205,6 +205,33 @@ Antenna - Bangla Audio Stories is the perfect mobile app for Bangla audio story 
  <img src="https://play-lh.googleusercontent.com/D4JkNTYj01BYelYtQ9z_9yXmQlQA2FR6PGq2qjTh-M8ggkAlsJgKSTZYXKOKez__1Bvj=w526-h296-rw" width="250" height = "500"  title="Event Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+# BMI Calculator App
+
+### Technolgies : Android SDK , Kotlin, Xml , Charts
+
+<p align="center">
+<img src="./BMI_calculator.jpg" width="780" height = "500"  title="Event Application">;
+
+</p>
+
+
+# BEAUTY SQUAD
+
+### Technolgies : Android SDK , JAVA, Xml 
+
+<p align="center">
+<img src="./5-Beauty-Squad.jpg" width="780" height = "500"  title="Event Application">;
+
+</p>
+
+# LOCATE VIA SMS
+
+### Technolgies : Android SDK , JAVA, Xml 
+
+<p align="center">
+<img src="./7-LVS.jpg" width="780" height = "500"  title="Event Application">;
+
+</p>
 <!-- <details>
   <summary>:zap: Github Stats</summary>
 <p align='center'>
