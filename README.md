@@ -75,6 +75,7 @@
 <br>
 
 
+
 # Event Application
 
 Lets Buy event Ticket online using this app
@@ -89,21 +90,9 @@ Lets Buy event Ticket online using this app
  <img src="https://play-lh.googleusercontent.com/rSRZj8U-blsrfNaFGNmr7dWaw_RkK_GQmIcfVIKqjCrB4T5FAWU6zrv-x06E0vNWAw=w2560-h1440-rw" width="250" height = "500"  title="Event Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-# ShopDrop Application
+### My Portfolio
 
-ShopDrop is the easiest and fastest way to have your online purchases delivered to your doorstep. No need to physically go to a store to buy groceries, fruits, vegetables etc, we will do it for you with our simple and user-friendly mobile app.
-
-<a href='https://play.google.com/store/apps/details?id=com.devpoint_dukaandar'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
-
-### Technolgies : Android SDK , Kotlin, Xml , Android Jetpack Libraries ,coroutines , Retrofit , Gson
-
-<p align="center">
-<img src="https://play-lh.googleusercontent.com/LCMPn2IGaWZwmP_17ULKpjaLvzmwHQctHAUPOclh1pwlVQR0Y7SmYHEgjKIw3hYUVpPA=w2560-h1440-rw" width="250" height = "500"  title="Event Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://play-lh.googleusercontent.com/fMG8Gu8qhX--0FZ_eGzHaXIBwgizVsNvzz_eRUDzQXmqxoF2L_rGENKls6N99QFRnc8=w2560-h1440-rw" width="250" height = "500"  title="Event Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://play-lh.googleusercontent.com/RZ938bHjff07mGyxShPiJU9HgTVLaaiU-Lo9eTOLCC6eBf00Uf3rUCrOwXv3oLFCX-Y=w2560-h1440-rw" width="250" height = "500"  title="Event Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
+<a href='./portfolio.md'>Click here see more ...</a>
 
 <!--
 <details>
