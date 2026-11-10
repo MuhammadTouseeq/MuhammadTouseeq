@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="visitors" src="https://gpvc.arturio.dev/MuhammadTouseeq" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=MuhammadTouseeq&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -104,12 +104,12 @@ Buy event tickets online with this app.
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadTouseeq&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Muhammad Touseeq's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTouseeq&layout=compact&hide_border=true&theme=radical&langs_count=6&hide=Objective-C,C,C++,CMake,Makefile,HTML" alt="Top Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadTouseeq&theme=radical" alt="Muhammad Touseeq's GitHub Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadTouseeq&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadTouseeq&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MuhammadTouseeq&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
