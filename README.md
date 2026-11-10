@@ -1,154 +1,119 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<p>
-  <h1 align="center"><b>Hello there, I'm Muhammad Touseeq 👋</b></h1>
-</p>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/@CodeWithTouseeq)
 
-<p>
-  <h4 align="center"><b>"Let's do SmartCode"</b></h4>
+<h1 align="center">Hello there, I'm Muhammad Touseeq Rafiq 👋</h1>
+<h4 align="center">"Let's do SmartCode"</h4>
+
+<p align="center">
+  <b>Senior Android &amp; Flutter Developer</b> · Mobile Lead at Lugmety · Karachi, Pakistan<br>
+  10+ years building production mobile apps · Open to remote roles and relocation
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/MuhammadTouseeq" />
+  <img alt="visitors" src="https://gpvc.arturio.dev/MuhammadTouseeq" />
 </p>
 
 <p align="center">
-<br>
-
-<a href="https://www.linkedin.com/in/muhammad-touseeq-rafiq-b4b35695/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:developertouseeq@gmail.com?subject=Hella%20Muhammad Touseeq"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+  <a href="https://www.linkedin.com/in/muhammad-touseeq-rafiq-b4b35695/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:muhammadtouseeq07@gmail.com?subject=Hello%20Muhammad%20Touseeq"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+  <a href="https://muhammadtouseeq7.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.youtube.com/@CodeWithTouseeq"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="250px" alt="Coding GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-## I am Senior Android App Developer
-### Kotlin | Java | MVVM | Flutter | Dart | Coroutines | Flow | JetPack 
+### 👨🏻‍💻 About Me
 
+- 📱 Senior Android & Flutter Developer with **10+ years** in mobile, including **5 years of Flutter**
+- 🚀 **Mobile Lead at Lugmety** (remote, since Nov 2023), leading 3 production apps (customer, driver, restaurant) for a GCC food-delivery platform
+- 💳 Shipped payment integrations (NearPay SoftPOS, Checkout.com), AppsFlyer & Adjust attribution, Play Integrity, FCM & APNs
+- 🧪 Unit tests for ViewModels and repositories running in CI/CD before every release
+- 🌐 Also full stack: React, Next.js, Vue, Node.js, Python and FastAPI
+- 🎥 I share mobile dev tutorials on [Code With Touseeq](https://www.youtube.com/@CodeWithTouseeq)
+- 💬 Open to **senior Android, Flutter and Mobile Lead roles**, remote or with relocation
+- 📫 Reach me at **muhammadtouseeq07@gmail.com**
 
-### 👨🏻‍💻 &nbsp;About Me
+<br clear="right">
 
-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-- 🔭 I’m currently working on my Event Booking App :grin:
-- 🌱 I’m currently learning JetPack Compose.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
-- ✍️ &nbsp;In my free time, I watch informative youtube videos, read articles .\
-- 💬 &nbsp;Feel free to reach out to me for project developement or help
-- ✉️ &nbsp;You can shoot me an email at developertouseeq@gmail.com! I'll try to respond as soon as I can.\
-- 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1PZ9bl7iYERLHjMD6H6_TyB6rUNiWtD91/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+### 🛠️ Tech Stack
 
-<br>
+**Mobile**
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines_/_Flow-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=flat)
+![MVVM](https://img.shields.io/badge/MVVM_+_Clean_Architecture-3DDC84?style=flat&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-### Languages and Tools: 
+**Services & Tooling**
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=FFA518)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![FCM](https://img.shields.io/badge/FCM_/_APNs-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Play Integrity](https://img.shields.io/badge/Play_Integrity-34A853?style=flat&logo=googleplay&logoColor=white)
+![AppsFlyer](https://img.shields.io/badge/AppsFlyer_/_Adjust-1E88E5?style=flat)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+**Web & Backend**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-42B883?style=flat&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-<img align="left" alt="Android" width="35px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg" />
-<img align="left" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg" />
-<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" />
-<img align="left" alt="Flutter" width="35px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg" />
-<img align="left" alt="Dart" width="35px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<!-- <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
- -->
-<br>
-<br>
-<br>
-<br>
+### 📲 Apps I've Shipped
 
+| App | What | Impact |
+| --- | --- | --- |
+| **Lugmety Customer App** | GCC food delivery (Android & Flutter) | 50K+ downloads |
+| **TruthGPT** | Flutter conversational AI app with voice | 50K+ downloads |
+| **JoeyCo** | Kotlin logistics app | 14K+ installs |
+| **TPL Insurance** | Android insurance app | 3.8K+ reviews, ~4.4 rating |
 
+### 🎟️ Event Application
 
-# Event Application
+Buy event tickets online with this app.
 
-Lets Buy event Ticket online using this app
+<a href='https://play.google.com/store/apps/details?id=com.app.alive.events&hl=en_IN&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='70px'/></a>
 
-<a href='https://play.google.com/store/apps/details?id=com.app.alive.events&hl=en_IN&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
-
-### Technolgies : Android SDK , Kotlin, Xml , Android Jetpack Libraries ,coroutines , Retrofit , Gson
+**Tech:** Android SDK, Kotlin, XML, Android Jetpack, Coroutines, Retrofit, Gson
 
 <p align="center">
-<img src="https://play-lh.googleusercontent.com/OzhdlIH8kiORPlcuPJgcc3xAHzeyMftQEftH_Bp9R3YgO3nYnN1tiTO6-J4puDEDRA=w2560-h1440-rw" width="250" height = "500"  title="Event Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://play-lh.googleusercontent.com/TXmOl-N4n3_GVdCBLCr1ZoqArNiNwAfe2CHQKVu-G7XT8aRTj0pJrx82HFNCCUOpqQ=w2560-h1440-rw" width="250" height = "500"  title="Event Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://play-lh.googleusercontent.com/rSRZj8U-blsrfNaFGNmr7dWaw_RkK_GQmIcfVIKqjCrB4T5FAWU6zrv-x06E0vNWAw=w2560-h1440-rw" width="250" height = "500"  title="Event Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://play-lh.googleusercontent.com/OzhdlIH8kiORPlcuPJgcc3xAHzeyMftQEftH_Bp9R3YgO3nYnN1tiTO6-J4puDEDRA=w2560-h1440-rw" width="220" title="Event Application">&nbsp;&nbsp;
+  <img src="https://play-lh.googleusercontent.com/TXmOl-N4n3_GVdCBLCr1ZoqArNiNwAfe2CHQKVu-G7XT8aRTj0pJrx82HFNCCUOpqQ=w2560-h1440-rw" width="220" title="Event Application">&nbsp;&nbsp;
+  <img src="https://play-lh.googleusercontent.com/rSRZj8U-blsrfNaFGNmr7dWaw_RkK_GQmIcfVIKqjCrB4T5FAWU6zrv-x06E0vNWAw=w2560-h1440-rw" width="220" title="Event Application">
 </p>
 
-### My Portfolio
+### 🌟 Featured Projects
 
-<a href='./portfolio.md'>Click here see more ...</a>
+| Project | Description |
+| --- | --- |
+| [HireSignal](https://hiresignal-kappa.vercel.app) | Community-driven job intelligence platform |
+| [StackHunt](https://stackhunt-two.vercel.app) | Job board for the Pakistani tech market |
+| [MaterialHomeMenu](https://github.com/MuhammadTouseeq/MaterialHomeMenu-Library-Dragable-) | Material design draggable home menu library for Android |
+| [EasyImagePicker](https://github.com/MuhammadTouseeq/EasyImagePicker) | Pick images from camera or gallery with minimal code |
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadTouseeq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Muhammad Touseeq's Github Stats">
+👉 More work on my [portfolio](https://muhammadtouseeq7.netlify.app) · [Portfolio details](./portfolio.md)
+
+### ⚡ GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadTouseeq&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Muhammad Touseeq's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTouseeq&layout=compact&hide_border=true&theme=radical&langs_count=6&hide=Objective-C,C,C++,CMake,Makefile,HTML" alt="Top Languages" />
 </p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTouseeq&show_icons=true&hide_border=true&theme=radical">
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadTouseeq&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-</details> -->
-
-
-### :zap: Github Stats
-
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=MuhammadTouseeq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Muhammad Touseeq's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=MuhammadTouseeq&show_icons=true&hide_border=true&theme=radical" width="37%" alt="MuhammadTouseeq's Top Languages">
-
-
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadTouseeq&show_icons=true&hide_border=true&theme=dark)
-![MuhammadTouseeq's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTouseeq&show_icons=true&hide_border=false&theme=dark")-->
-
-<!-- repos
-<a href="https://github.com/MuhammadTouseeq/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadTouseeq&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/MuhammadTouseeq/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadTouseeq&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/MuhammadTouseeq/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadTouseeq&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
-
-
-
-<!-- ![GitHub stats](https://github-profile-trophy.vercel.app/?username=MuhammadTouseeq&theme=onedark) -->
-### :zap: Recent Github Activity
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#99](Kaopiz/android-segmented-control/pull/99) in [Segment Control](https://github.com/Kaopiz/android-segmented-control)
-
-<!--END_SECTION:activity-->
-
-<br>
 
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+  <h3>Show some ❤️ by starring some of the repositories!</h3>
+</div>
 
-<!--[website]: -->
-<!-- [twitter]: https://twitter.com/sumanth_98?s=09 -->
-[youtube]: https://www.youtube.com/channel/UC2xysEBSC1SPxeS3Am3qWHw
-<!-- [instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2 -->
-[linkedin]:https://www.linkedin.com/in/muhammad-touseeq-rafiq-b4b35695/
+<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
